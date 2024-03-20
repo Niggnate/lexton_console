@@ -27,13 +27,7 @@
   ## Tree review
 
 
-   ![Screenshot 2024-03-19 214420](https://github.com/Niggnate/lexton_console/assets/135266395/9750b1d5-948b-4301-9605-a83014f5c5b8)
-   ![Screenshot 2024-03-19 214534](https://github.com/Niggnate/lexton_console/assets/135266395/80943c65-ef1e-4c28-92e9-8a0d976db0f3)
-
-   ## Tree expression
-
-
-   ![Screenshot (3)](https://github.com/Niggnate/lexton_console/assets/135266395/5bc20bf3-9720-4c6f-96d5-aee904d43442)
+   ![Screenshot (3)](https://github.com/Niggnate/lexton_console/assets/135266395/f2a17831-f06d-4278-8a68-1efcb270209e)
 
 
 ## Author
