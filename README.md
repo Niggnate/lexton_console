@@ -34,7 +34,7 @@
 
 👤 **Prince Khanyile**
 
-* Twitter: [@Lwazi_Khanyile](https://twitter.com/lwazi_khanyile)
+* Twitter: [@NiggnateCreed](https://x.com/niggnatecreed)
 * LinkedIn: [@prince-khanyile-8301a2189](https://www.linkedin.com/in/prince-khanyile-8301a2189/)
 
 ## License
